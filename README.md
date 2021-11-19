@@ -9,4 +9,4 @@ Mapa Sub da disciplina de Back End I. Construção de um portifólio em PHP, HTM
 - Nome: Rafael da Silva e Silva
 - RA: 20063493-5
 - Disciplina: PROGRAMAÇÃO BACK END I - 53/2021
-- Curso: Sistema para Internet
+- Curso: Sistemas para Internet
